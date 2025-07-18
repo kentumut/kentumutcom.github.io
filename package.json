@@ -14,12 +14,12 @@
     "framer-motion": "^12.23.6",
     "lucide-react": "^0.525.0",
     "postcss": "^8.5.6",
-    "tailwindcss": "^4.1.11",
     "vue": "^3.5.17"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^6.0.0",
     "@vue/tsconfig": "^0.7.0",
+    "tailwindcss": "^4.1.11",
     "typescript": "~5.8.3",
     "vite": "^7.0.4",
     "vue-tsc": "^2.2.12"
